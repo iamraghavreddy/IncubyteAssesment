@@ -1,7 +1,7 @@
 # IncubyteAssesment
 Chandrayaan 3 TDD Assessment
 
-the code has been written in python with two examples to check it's working,
+the code has been written in python (spacecraft.py) with two examples to check it's working,
 
 for commands = ["f", "r", "u", "b", "l"]
 we get,
