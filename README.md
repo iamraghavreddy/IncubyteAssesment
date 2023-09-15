@@ -1,4 +1,4 @@
-# IncubyteAssesment
+# IncubyteAssessment
 Chandrayaan 3 TDD Assessment
 
 the code has been written in python (spacecraft.py) with two examples to check it's working,
